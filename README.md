@@ -71,3 +71,10 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * Week 13 (Monday 11/16/20 - Friday 11/20/20): Chapter 7 - Juvenile Justice (continued); Assignment 13: Friday 11/20/20
 
 * Week 14 (Monday 11/23/20 - Tuesday 12/1/20): Chapter 7 - Juvenile Justice (continued) + Chapter 8 - Conclusions; Assignment 14: Final Exam Week
+
+### Lesson 1 - Wednesday 8/19/20
+
+* Lecture link is [here](https://youtu.be/OfMG4ceDEc0).
+* Please note that I've turned on close-captioning for the lecture videos.
+* Reading assignment: Chapter 1 of your textbook.
+* First assignment will be open from Thursday 8/27/20 - Friday 8/28/20.
