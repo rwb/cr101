@@ -76,5 +76,5 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 * Lecture link is [here](https://youtu.be/OfMG4ceDEc0).
 * Please note that I've turned on close-captioning for the lecture videos.
-* Reading assignment: Chapter 1 of your textbook.
+* Current reading: Chapter 1 of your textbook.
 * First assignment will be open from Thursday 8/27/20 - Friday 8/28/20.
