@@ -98,7 +98,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * Lecture link is coming soon.
 
 <p align="center">
-<img src="fig1.png" width="500px">
+<img src="fig1.png" width="750px">
 </p>
 
 ##### Key points from this lecture
