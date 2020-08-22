@@ -84,3 +84,28 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * Lecture link is [here](https://youtu.be/AXmOV5BCRjQ).
 * Current reading: Chapter 1 of your textbook (start reading as soon as you can get your book).
 * First assignment will be open from Thursday 8/27/20 - Friday 8/28/20.
+
+##### Key points from this lecture
+
+* Defining criminology and criminal justice.
+* Identifying strengths and weaknesses in the science of criminology.
+* Considering the meaning of the word "justice."
+* The idea of federalism
+* Separation of powers
+
+### Lesson 3 - Saturday 8/22/20
+
+* Lecture link is coming soon.
+
+<p align="center">
+<img src="fig1.png" width="500px">
+</p>
+
+##### Key points from this lecture
+
+* The idea of theory.
+* Relationship between theory and policy.
+* Age-arrest and age-crime curves.
+* Criminal recidivism.
+* Link between criminal recidivism and age-arrest curves.
+* The idea of a recidivism rate.
