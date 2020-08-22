@@ -78,3 +78,9 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * Please note that I've turned on close-captioning for the lecture videos.
 * Current reading: Chapter 1 of your textbook.
 * First assignment will be open from Thursday 8/27/20 - Friday 8/28/20.
+
+### Lesson 2 - Friday 8/21/20
+
+* Lecture link is [here](https://youtu.be/AXmOV5BCRjQ).
+* Current reading: Chapter 1 of your textbook (start reading as soon as you can get your book).
+* First assignment will be open from Thursday 8/27/20 - Friday 8/28/20.
