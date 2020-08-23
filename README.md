@@ -109,3 +109,19 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * Criminal recidivism.
 * Link between criminal recidivism and age-arrest curves.
 * The idea of a recidivism rate.
+
+### Lesson 4 - Sunday 8/23/20
+
+* Lecture link is coming soon.
+* Link to the [Minneapolis Domestic Violence Experiment](https://web.archive.org/web/20070705011333/http://www.policefoundation.org/pdf/minneapolisdve.pdf)
+
+##### Key points from this lecture
+
+* Considering the link between theory and policy.
+* The Minneapolis Domestic Violence Experiment (MDVE) is a good example of this link.
+* Motivation for the MDVE
+* Theoretical ideas within the MDVE
+* How the MDVE was carried out.
+* Treatments used and outcomes measured.
+* MDVE results
+* Policy impact of the MDVE
