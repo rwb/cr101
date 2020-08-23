@@ -95,7 +95,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 ### Lesson 3 - Saturday 8/22/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/RJ6L1C1XWls).
 
 <p align="center">
 <img src="fig1.png" width="750px">
