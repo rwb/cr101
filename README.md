@@ -117,7 +117,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 ##### Key points from this lecture
 
-* Considering the link between theory and policy.
+* Considering the link between research, theory, and policy.
 * The Minneapolis Domestic Violence Experiment (MDVE) is a good example of this link.
 * Motivation for the MDVE
 * Theoretical ideas within the MDVE
