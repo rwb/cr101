@@ -112,7 +112,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 ### Lesson 4 - Sunday 8/23/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/weJWB_wqVyU).
 * Link to the [Minneapolis Domestic Violence Experiment](https://web.archive.org/web/20070705011333/http://www.policefoundation.org/pdf/minneapolisdve.pdf)
 
 ##### Key points from this lecture
