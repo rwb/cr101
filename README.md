@@ -125,3 +125,21 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * Treatments used and outcomes measured.
 * MDVE results
 * Policy impact of the MDVE
+
+### Lesson 5 - Monday 8/24/20
+
+* Lecture link is coming soon.
+
+##### Key points from this lecture
+
+* Research always has strengths and weaknesses.
+* Strengths and weaknesses of the MDVE.
+* Crime measurement overview.
+* Three principal ways of measuring crime.
+* Each measurement approach has strengths and weaknesses.
+* Looking at crime in Columbia and Charleston as an example
+* This lecture concludes the material being covered for the first assignment due on Friday 8/28/20.
+
+<p align="center">
+<img src="cctable.png" width="500px">
+</p>
