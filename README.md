@@ -130,6 +130,8 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 * Lecture link is [here](https://youtu.be/FMtpO5IK_C0).
 
+* Announcement: this is the last lecture for the first assignment. Beginning this week, a 30-35 minute lecture will be posted each day from Saturday-Tuesday. The material in these lectures will be covered on each week's assignment due on Thursday-Friday. You do not have to watch the lectures on the days they are posted. You do need to review them before you work on the assignment each week. I will do my best to have the Tuesday lecture posted before office hours on Tuesday afternoon.
+
 ##### Key points from this lecture
 
 * Research always has strengths and weaknesses.
