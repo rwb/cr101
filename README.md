@@ -132,6 +132,14 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 * Announcement: this is the last lecture for the first assignment. Beginning this week, a 30-35 minute lecture will be posted each day from Saturday-Tuesday. The material in these lectures will be covered on each week's assignment due on Thursday-Friday. You do not have to watch the lectures on the days they are posted. You do need to review them before you work on the assignment each week. I will do my best to have the Tuesday lecture posted before office hours on Tuesday afternoon.
 
+* Here are a few practice questions to give you an idea of the kinds of questions I will be asking on the assignments.
+
+1. What is a theory? - Example Answer: a description of a process that generates observed data.
+2. Describe the age-arrest curve. - Example Answer: the age-arrest curve tells us that arrest rates rise dramatically during early adolescence, peak in late adolescence and early adulthood, and then decline for the rest of the lifespan.
+3. Explain what we mean by the term "recidivism." - Example Answer: Recidivism is new offending among people who have offended in the past.
+4. Identify the main strength and the main weakness of the science of criminology. - Example Answer: Criminologists are good at describing patterns of criminal behavior but not so good at explaining that behavior.
+5. What is federalism? - Example Answer: federalism pertains to the idea that power should be separated among different entities rather than invested in a single person or agency. In the United States, power is distributed between federal, state, and local governments, and most jurisdictions distribute power between legislative, executive, and judicial branches of government.
+
 ##### Key points from this lecture
 
 * Research always has strengths and weaknesses.
