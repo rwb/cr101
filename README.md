@@ -155,3 +155,20 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 <p align="center">
 <img src="cctable.png" width="500px">
 </p>
+
+### Lesson 6 - Saturday 8/29/20
+
+* Lecture link is coming soon.
+
+* Announcement: Lesson 6 is the first lecture for the second assignment. Today's material is based on Chapter 1 of the textbook.
+
+##### Key points from this lecture
+
+* Crime vs. deviance
+* Social control
+* Mala in se and mala prohibitum offenses
+* Felonies and misdemeanors
+* State's role in criminal cases
+* Overview of criminal justice policy
+* American criminal justice philosophy
+* Classical purposes of criminal punishment
