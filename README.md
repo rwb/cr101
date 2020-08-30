@@ -169,5 +169,16 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * Mala in se and mala prohibitum offenses
 * Felonies and misdemeanors
 * State's role in criminal cases
-* Overview of criminal justice policy
-* American criminal justice philosophy
+
+### Lesson 7 - Sunday 8/30/20
+
+* Lecture link is coming soon.
+
+##### Key points from this lecture
+
+* Classical School
+* Positive School
+* Retribution
+* Deterrence
+* Rehabilitation
+* Incapacitation
