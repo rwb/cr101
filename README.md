@@ -46,31 +46,31 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 * Week 1 (Thursday 8/20/20 - Friday 8/28/20): Chapter 1 - Definitional and measurement issues; Assignment 1: Friday 8/28/20
 
-* Week 2 (Thursday 8/31/20 - Friday 9/4/20): Chapter 1 - Definitional and measurement issues (continued); Assignment 2: Friday 9/4/20
+* Week 2 (Saturday 8/29/20 - Friday 9/4/20): Chapter 1 - Definitional and measurement issues (continued); Assignment 2: Friday 9/4/20
 
-* Week 3 (Monday 9/7/20 - Friday 9/11/20): Chapter 2 - Issues of Law; Assignment 3: Friday 9/11/20
+* Week 3 (Saturday 9/5/20 - Friday 9/11/20): Chapter 2 - Issues of Law; Assignment 3: Friday 9/11/20
 
-* Week 4 (Monday 9/14/20 - Friday 9/18/20): Chapter 2 - Issues of Law (continued); Assignment 4: Friday 9/18/20
+* Week 4 (Saturday 9/12/20 - Friday 9/18/20): Chapter 2 - Issues of Law (continued); Assignment 4: Friday 9/18/20
 
-* Week 5 (Monday 9/21/20 - Friday 9/25/20): Chapter 3 - Policing and Law Enforcement; Assignment 5: Friday 9/25/20
+* Week 5 (Saturday 9/19/20 - Friday 9/25/20): Chapter 3 - Policing and Law Enforcement; Assignment 5: Friday 9/25/20
 
-* Week 6 (Monday 9/28/20 - Friday 10/2/20): Chapter 3 - Policing and Law Enforcement (continued); Assignment 6: Friday 10/2/20
+* Week 6 (Saturday 9/26/20 - Friday 10/2/20): Chapter 3 - Policing and Law Enforcement (continued); Assignment 6: Friday 10/2/20
 
-* Week 7 (Monday 10/5/20 - Friday 10/9/20): Chapter 4 - Court System; Assignment 7: Friday 10/9/20
+* Week 7 (Saturday 10/3/20 - Friday 10/9/20): Chapter 4 - Court System; Assignment 7: Friday 10/9/20
 
-* Week 8 (Monday 10/12/20 - Friday 10/16/20): Chapter 4 - Court System (continued); Assignment 8: Friday 10/16/20
+* Week 8 (Saturday 10/10/20 - Friday 10/16/20): Chapter 4 - Court System (continued); Assignment 8: Friday 10/16/20
 
-* Week 9 (Monday 10/19/20 - Friday 10/23/20): Chapter 5 - Institutional Corrections; Assignment 9: Friday 10/23/20
+* Week 9 (Saturday 10/17/20 - Friday 10/23/20): Chapter 5 - Institutional Corrections; Assignment 9: Friday 10/23/20
 
-* Week 10 (Monday 10/26/20 - Friday 10/30/20): Chapter 5 - Institutional Corrections (continued); Assignment 10: Friday 10/30/20
+* Week 10 (Saturday 10/24/20 - Friday 10/30/20): Chapter 5 - Institutional Corrections (continued); Assignment 10: Friday 10/30/20
 
-* Week 11 (Monday 11/2/20 - Friday 11/6/20): Chapter 6 - Community Corrections; Assignment 11: Friday 11/6/20
+* Week 11 (Saturday 10/31/20 - Friday 11/6/20): Chapter 6 - Community Corrections; Assignment 11: Friday 11/6/20
 
-* Week 12 (Monday 11/9/20 - Friday 11/13/20): Chapter 6 - Community Corrections (continued) + Chapter 7 - Juvenile Justice; Assignment 12: Friday 11/13/20
+* Week 12 (Saturday 11/7/20 - Friday 11/13/20): Chapter 6 - Community Corrections (continued) + Chapter 7 - Juvenile Justice; Assignment 12: Friday 11/13/20
 
-* Week 13 (Monday 11/16/20 - Friday 11/20/20): Chapter 7 - Juvenile Justice (continued); Assignment 13: Friday 11/20/20
+* Week 13 (Saturday 11/14/20 - Friday 11/20/20): Chapter 7 - Juvenile Justice (continued); Assignment 13: Friday 11/20/20
 
-* Week 14 (Monday 11/23/20 - Tuesday 12/1/20): Chapter 7 - Juvenile Justice (continued) + Chapter 8 - Conclusions; Assignment 14: Final Exam Week
+* Week 14 (Saturday 11/21/20 - Tuesday 12/1/20): Chapter 7 - Juvenile Justice (continued) + Chapter 8 - Conclusions; Assignment 14: Final Exam Week
 
 ### Lesson 1 - Wednesday 8/19/20
 
