@@ -158,7 +158,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 ### Lesson 6 - Saturday 8/29/20
 
-* Lecture link is [here](https://youtu.be/0THiM5LZDBE).
+* Lecture link is [here](https://youtu.be/R1r__5RNcI0).
 
 * Announcement: Lesson 6 is the first lecture for the second assignment. Today's material is based on Chapter 1 of the textbook.
 
