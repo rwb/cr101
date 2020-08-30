@@ -171,4 +171,3 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * State's role in criminal cases
 * Overview of criminal justice policy
 * American criminal justice philosophy
-* Classical purposes of criminal punishment
