@@ -172,10 +172,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 ### Lesson 7 - Sunday 8/30/20
 
-* Lecture link is coming soon.
-
-##### Key points from this lecture
-
+* Lecture link is [here](https://youtu.be/7FJ-uhTJIJA).
 * Classical School
 * Positive School
 * Retribution
