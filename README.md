@@ -184,3 +184,11 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * Dark figure of crime
 * Crime counts vs. crime rates
 * Three ways of measuring crime: (1) Official statistics; (2) Victimization surveys; and (3) Self-report surveys
+
+<p align="center">
+<img src="nc-burg.png" width="500px">
+</p>
+
+<p align="center">
+<img src="nc-pop.png" width="500px">
+</p>
