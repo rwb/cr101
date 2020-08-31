@@ -179,9 +179,14 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 ### Lesson 8 - Monday 8/31/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/wPbZcntNsWU).
 * Four main purposes of punishment: (1) Retribution; (2) Deterrence; (3) Rehabilitation; and (4) Incapcitation (continued)
 * Dark figure of crime
+
+### Lesson 9 - Tuesday 9/1/20
+
+* Lecture link is coming soon.
+* Textbook reading: Chapter 1 (continued)
 * Crime counts vs. crime rates
 * Three ways of measuring crime: (1) Official statistics; (2) Victimization surveys; and (3) Self-report surveys
 
