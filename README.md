@@ -190,5 +190,5 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 </p>
 
 <p align="center">
-<img src="nc-pop.png" width="500px">
+<img src="nc-pop.png" width="600px">
 </p>
