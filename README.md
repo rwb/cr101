@@ -175,12 +175,12 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * Lecture link is [here](https://youtu.be/7FJ-uhTJIJA).
 * Classical School
 * Positive School
-* Four main purposes of punishment: (1) Retribution; (2) Deterrence; (3) Rehabilitation; and (4) Incapcitation
+* Four main purposes of punishment: (1) Retribution; (2) Deterrence; (3) Rehabilitation; and (4) Incapacitation
 
 ### Lesson 8 - Monday 8/31/20
 
 * Lecture link is [here](https://youtu.be/k0EjOhKMaGo).
-* Four main purposes of punishment: (1) Retribution; (2) Deterrence; (3) Rehabilitation; and (4) Incapcitation (continued)
+* Four main purposes of punishment: (1) Retribution; (2) Deterrence; (3) Rehabilitation; and (4) Incapacitation (continued)
 * Dark figure of crime
 
 ### Lesson 9 - Tuesday 9/1/20
