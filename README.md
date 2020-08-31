@@ -179,7 +179,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 ### Lesson 8 - Monday 8/31/20
 
-* Lecture link is [here](https://youtu.be/wPbZcntNsWU).
+* Lecture link is [here](https://youtu.be/k0EjOhKMaGo).
 * Four main purposes of punishment: (1) Retribution; (2) Deterrence; (3) Rehabilitation; and (4) Incapcitation (continued)
 * Dark figure of crime
 
