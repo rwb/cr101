@@ -185,7 +185,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 ### Lesson 9 - Tuesday 9/1/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/5nAp-wit-EQ).
 * Textbook reading: Chapter 1 (continued); pp. 1-14.
 * Note: Lesson 9 is the final lesson covered on Assignment #2 (Thursday 9/3/20 - Friday 9/4/20).
 * More on incapacitation as a purpose of punishment (#4 from Lesson 8).
