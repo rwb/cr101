@@ -186,16 +186,18 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 ### Lesson 9 - Tuesday 9/1/20
 
 * Lecture link is coming soon.
-* Textbook reading: Chapter 1 (continued)
+* Textbook reading: Chapter 1 (continued); pp. 1-14.
+* Note: Lesson 9 is the final lesson covered on Assignment #2 (Thursday 9/3/20 - Friday 9/4/20).
 * More on incapacitation as a purpose of punishment (#4 from Lesson 8).
-* Lesson 9 is the final lesson covered on Assignment #2 (Thursday 9/3/20 - Friday 9/4/20).
-* Crime counts vs. crime rates
 * Three ways of measuring crime: (1) Official statistics; (2) Victimization surveys; and (3) Self-report surveys
 
-<p align="center">
-<img src="nc-burg.png" width="500px">
-</p>
 
-<p align="center">
-<img src="nc-pop.png" width="600px">
-</p>
+<!-- * Crime counts vs. crime rates
+
+<!-- <p align="center">
+<!-- <img src="nc-burg.png" width="500px">
+<!-- </p>
+
+<!-- <p align="center">
+<!-- <img src="nc-pop.png" width="600px">
+<!-- </p>
