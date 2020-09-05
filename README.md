@@ -193,6 +193,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 ### Lesson 10 - Saturday 9/5/20
 
+* Lecture link is [here](https://youtu.be/vfAZVtsPcxc).
 * *Note*: Today's lesson is the first lesson for Assignment #3 which will occur on Thursday 9/4 and Friday 9/5.
 * Please make sure you have 30 minutes set aside to do the assignment when you start it. Once you begin the assignment you have to complete it in one sitting.
 * Crime counts vs. crime rates
