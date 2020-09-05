@@ -191,13 +191,38 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * More on incapacitation as a purpose of punishment (#4 from Lesson 8).
 * Three ways of measuring crime: (1) Official statistics; (2) Victimization surveys; and (3) Self-report surveys
 
+### Lesson 10 - Saturday 9/5/20
 
-<!-- * Crime counts vs. crime rates
+* Today's lesson is the first material for assignment #3 which will be open from Thursday 9/10/20 - Friday 9/11/20.
+* Crime counts vs. crime rates
+* A rate includes both a numerator (# of crimes) and a denominator (measure of population size)
+* A rate also includes a multiplier to scale the fraction (i.e., # of crimes per 100,000 population)
+* So, an example calculation is: (# of crimes/# of people) x 100,000
 
-<!-- <p align="center">
-<!-- <img src="nc-burg.png" width="500px">
-<!-- </p>
+```rout
+Example
 
-<!-- <p align="center">
-<!-- <img src="nc-pop.png" width="600px">
-<!-- </p>
+* Suppose we have two cities and both cities have 100,000 population.
+* One city has 125,000 people inside the city each day (potential robbery targets)
+* The other city has 175,000 people inside the city each day.
+* Now, suppose each city has 150 robberies in a particular month.
+* Each city will have the same robbery rate in the UCR (150) -- but -- the real robbery rates are different.
+* 150/125000 x 100,000 = 120 per 100K population
+* 150/175000 x 100,000 = 86 per 100K population.
+```
+
+<p align="center">
+<img src="nc-burg.png" width="500px">
+</p>
+
+<p align="center">
+<img src="nc-pop.png" width="600px">
+</p>
+
+<p align="center">
+<img src="homicides.png" width="500px">
+</p>
+
+<p align="center">
+<img src="ncschomicides.png" width="500px">
+</p>
