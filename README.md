@@ -220,9 +220,9 @@ Example
 </p>
 
 <p align="center">
-<img src="homicides.png" width="500px">
+<img src="homicides.png" width="600px">
 </p>
 
 <p align="center">
-<img src="ncschomicides.png" width="500px">
+<img src="ncschomicides.png" width="600px">
 </p>
