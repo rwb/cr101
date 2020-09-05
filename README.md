@@ -200,7 +200,17 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * So, an example calculation is: (# of crimes/# of people) x 100,000
 
 ```rout
-Example
+Example 1
+
+* Suppose we have two cities: (1) a city with 150,000 people; and (2) a city with 200,000 people.
+* Now, suppose each city has 150 robberies in a particular month.
+* Each city will have the same robbery rate in the UCR (150) -- but -- the real robbery rates are different.
+* 150/150,000 x 100,000 = 100 per 100K population
+* 150/200,000 x 100,000 = 75 per 100K population.
+```
+
+```rout
+Example 2
 
 * Suppose we have two cities and both cities have 100,000 population.
 * One city has 125,000 people inside the city each day (potential robbery targets)
