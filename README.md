@@ -195,7 +195,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 * Lecture link is [here](https://youtu.be/vfAZVtsPcxc).
 * *Note*: Today's lesson is the first lesson for Assignment #3 which will occur on Thursday 9/4 and Friday 9/5.
-* Please make sure you have 30 minutes set aside to do the assignment when you start it. Once you begin the assignment you have to complete it in one sitting.
+* Please make sure you have 35 minutes set aside to do the assignments when you start them. Once you begin an assignment you have to complete it in one sitting.
 * Crime counts vs. crime rates
 * A rate includes both a numerator (# of crimes) and a denominator (measure of population size)
 * A rate also includes a multiplier to scale the fraction (i.e., # of crimes per 100,000 population)
