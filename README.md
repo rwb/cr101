@@ -198,6 +198,8 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 * A rate includes both a numerator (# of crimes) and a denominator (measure of population size)
 * A rate also includes a multiplier to scale the fraction (i.e., # of crimes per 100,000 population)
 * So, an example calculation is: (# of crimes/# of people) x 100,000
+* Homicides/murder are generally the best measured crime.
+* In general, we have two distinct ways of measuring homicides/murders in the United States (see below).
 
 ```rout
 Example 1
