@@ -204,9 +204,11 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 ```rout
 Example 1
 
-* Suppose we have two cities: (1) a city with 150,000 people; and (2) a city with 200,000 people.
+* Suppose we have two cities: 
+    - (1) a city with 150,000 people; 
+    - (2) a city with 200,000 people.
 * Now, suppose each city has 150 robberies in a particular month.
-* Each city will have the same robbery rate in the UCR (150) -- but -- the real robbery rates are different.
+* What is the robbery rate for the two cities?
 * 150/150,000 x 100,000 = 100 per 100K population
 * 150/200,000 x 100,000 = 75 per 100K population.
 ```
@@ -214,11 +216,14 @@ Example 1
 ```rout
 Example 2
 
-* Suppose we have two cities and both cities have 100,000 population.
-* One city has 125,000 people inside the city each day (potential robbery targets)
+* Suppose we have two cities and both cities 
+  have 100,000 population.
+* One city has 125,000 people inside the city 
+  each day (potential robbery targets)
 * The other city has 175,000 people inside the city each day.
 * Now, suppose each city has 150 robberies in a particular month.
-* Each city will have the same robbery rate in the UCR (150) -- but -- the real robbery rates are different.
+* Each city will have the same robbery rate in the UCR (150) 
+* But, this could be misleading.
 * 150/125000 x 100,000 = 120 per 100K population
 * 150/175000 x 100,000 = 86 per 100K population.
 ```
