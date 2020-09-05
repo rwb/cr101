@@ -228,6 +228,18 @@ Example 2
 * 150/175000 x 100,000 = 86 per 100K population.
 ```
 
+```rout
+Example 3
+
+* Burglaries in Greensboro and Charlotte
+* Greensboro had 3,766 burglaries in 2009.
+* Charlotte had 7,766 burglaries in 2009.
+* Population in Greensboro in 2009 was 253,191.
+* Population in Charlotte in 2009 was 777,708.
+* Burglary rate in Greensboro: (3766/253191) x 100,000 = 1487
+* Burglary rate in Charlotte: (7766/777708) x 100,000 = 999
+```
+
 <p align="center">
 <img src="nc-burg.png" width="500px">
 </p>
