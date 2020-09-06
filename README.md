@@ -257,3 +257,16 @@ Example 3
 <p align="center">
 <img src="ncschomicidesa.png" width="900px">
 </p>
+
+### Lesson 11 - Sunday 9/6/20
+
+* We are continuing today with our discussion of crime measurement
+* Today, we focus on the National Crime Victimization Survey.
+* Nationally representative household survey.
+* Conducted each year since 1973.
+* Each fall, a new report is published showing what's occurred in the preceding year.
+* I have compiled a series of NCVS results going back to 1973; here is a [link](https://github.com/rwb/ncvs/blob/master/README.md).
+* NCVS covers household and personal crimes but not commercial victimizations.
+* For personal crimes, the NCVS only examines people who were 12 years old and older.
+* NCVS is a voluntary survey; carried out by the U.S. Census Bureau.
+* NCVS helps us understand the dark figure of crime (discussed previously). An [example](https://www.bjs.gov/content/pub/pdf/cv18.pdf).
