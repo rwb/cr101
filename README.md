@@ -255,5 +255,5 @@ Example 3
 </p>
 
 <p align="center">
-<img src="ncschomicidesa.png" width="800px">
+<img src="ncschomicidesa.png" width="900px">
 </p>
