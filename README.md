@@ -195,6 +195,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 
 * Lecture link is [here](https://youtu.be/vfAZVtsPcxc).
 * *Note*: Today's lesson is the first lesson for Assignment #3 which will occur on Thursday 9/4 and Friday 9/5.
+* We are still examining crime measurement issues on pages 12-14 in the textbook.
 * Please make sure you have 35 minutes set aside to do the assignments when you start them. Once you begin an assignment you have to complete it in one sitting.
 * Crime counts vs. crime rates
 * A rate includes both a numerator (# of crimes) and a denominator (measure of population size)
