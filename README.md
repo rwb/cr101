@@ -261,7 +261,7 @@ Example 3
 ### Lesson 11 - Sunday 9/6/20
 
 * Lecture link is [here](https://youtu.be/IefOY6i_GnA).
-* We are continuing today with our discussion of crime measurement
+* We are continuing today with our discussion of crime measurement (pp. 12-14 in the textbook).
 * Today, we focus on the National Crime Victimization Survey.
 * Nationally representative household survey.
 * Conducted each year since 1973.
