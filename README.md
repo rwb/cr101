@@ -275,13 +275,13 @@ Example 3
 
 ### Lesson 12 - Monday 9/7/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/lfb-5P3YsV0).
 * Today, we complete our discussion of crime measurement by discussing self-report surveys (completes material on pp. 12-14).
 * Self-report surveys examine what people say when they are questioned about their own offending behavior.
 * These surveys confirm the large dark figure of crime revealed by crime victimization surveys.
 * There are two broad types of surveys: cross-sectional and panel studies.
 * A strength is that they give us another window into the characteristics of offenders and the crimes they commit.
 * There are three major weaknesses with these surveys: (1) sampling problems; (2) accuracy of reports; and (3) attrition (in panel surveys).
-* Here is an [example](https://d1wqtxts1xzle7.cloudfront.net/32982174/Turner_-_Appendix_A_-_2012c.pdf?1392254078=&response-content-disposition=inline%3B+filename%3DThe_Cumulative_Prevalence_of_Arrest_from.pdf&Expires=1599502451&Signature=A~HRJ6CcVLlX47vw~-WOKMrP-fmOj7Zs07dzngida9lRc~6zBfvjm-u784mtNwO4VH4cSlCH5yM24WaXxscHnnb1P4U59mSfA0tNuo09YjdHQCg3bw47~ax~971vIByAaKrWqqudOtnhoYihA48982qcJGCF~ubFnfyixOKbtdZnXT88NJKgn~gZpDE8lhZXXQFBXma-KRSCnq6z5zA0bfr5D57FTmUtYUUJ27mtvgUAMot-0v-GZj~WjVFQ~hWwkdzhfORIbdtAxGPeeTlu7BDjpenZ4gmMD-I-dS5OhlLSeZBSRVZWP-WsrK~RzbIznC5yYqhSQb-AooRP28cRyQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) of information we can learn from a self-report survey.
+* Here is an [example](https://www.prisonlegalnews.org/media/publications/pediatrics_journal_cumulative_prevalence_of_arrest_from_ages_8-23_in_a_national_sample_2011.pdf) of information we can learn from a self-report survey.
 * The idea of the social contract (pp. 14-15).
 * Crime control and due process models (p. 15).
