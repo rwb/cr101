@@ -285,3 +285,17 @@ Example 3
 * Here is an [example](https://www.prisonlegalnews.org/media/publications/pediatrics_journal_cumulative_prevalence_of_arrest_from_ages_8-23_in_a_national_sample_2011.pdf) of information we can learn from a self-report survey.
 * The idea of the social contract (pp. 14-15).
 * Crime control and due process models (p. 15).
+
+### Lesson 13 - Tuesday 9/8/20
+
+* Lecture link is coming soon.
+* Today's lesson is the last material for Assignment #3 which will be posted from Thursday 9/10 - Friday 9/11.
+* Philosophical fluidity (retribution, deterrence, incapacitation, and rehabilitation).
+* Federalism (separation and dispersion of power).
+* Discretion (autonomous decision making).
+* Components (four C's) of the criminal justice system.
+* Citizens - reporting of crime, interaction with police, serving on juries, mandated reporting, no-drop policies.
+* Cops - major predictors of arrest decisions.
+* Courts - courtroom work group.
+* Corrections - community and institutional.
+* Recent developments - victims, social media, and use of force.
