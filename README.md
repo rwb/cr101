@@ -299,3 +299,4 @@ Example 3
 * Courts - courtroom work group.
 * Corrections - community and institutional.
 * Recent developments - victims, social media, and use of force.
+* This completes Chapter 1 and the material for Assignment #3.
