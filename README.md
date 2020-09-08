@@ -289,6 +289,7 @@ Example 3
 ### Lesson 13 - Tuesday 9/8/20
 
 * Lecture link is [here](https://youtu.be/rLOSI1QDOY4).
+* Announcement: if you choose to come to office hours, please note that I generally only see one student at a time. This means you might be in the "waiting room" for a few minutes while I talk to another student. I will let you in as soon as I can under these circumstances.
 * Today's lesson is the last material for Assignment #3 which will be posted from Thursday 9/10 - Friday 9/11.
 * Philosophical fluidity (retribution, deterrence, incapacitation, and rehabilitation).
 * Federalism (separation and dispersion of power).
