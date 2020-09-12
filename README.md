@@ -301,3 +301,17 @@ Example 3
 * Corrections - community and institutional.
 * Recent developments - victims, social media, and use of force.
 * This completes Chapter 1 and the material for Assignment #3.
+
+### Lesson 14 - Saturday 9/12/20
+
+* Lecture link is coming soon.
+* Today's lesson is the first material (pp. 25-30) for Chapter 2 and Assignment #4 which will be posted from Thursday 9/17 - Friday 9/18.
+* We define the term "law" and consider how laws are made in the United States.
+* The U.S. Constitution and the idea of constitutional law.
+* When a law is created, that law applies to a specific jurisdiction.
+* Key concept: the rule of law.
+* Customs, traditions, mores, and laws.
+* Common law and precedent (stare decisis).
+* Consistency and predictability in the law (echoes of Cesare Beccaria who we discussed previously).
+* Substantive and procedural laws.
+* Differences between civil law and criminal law.
