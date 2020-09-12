@@ -304,7 +304,7 @@ Example 3
 
 ### Lesson 14 - Saturday 9/12/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/91aRr3ZzmLw).
 * Today's lesson is the first material (pp. 25-30) for Chapter 2 and Assignment #4 which will be posted from Thursday 9/17 - Friday 9/18.
 * We define the term "law" and consider how laws are made in the United States.
 * The U.S. Constitution and the idea of constitutional law.
