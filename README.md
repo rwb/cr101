@@ -318,7 +318,7 @@ Example 3
 
 ### Lesson 15 - Sunday 9/13/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/Pr-YvmNGcXo).
 * Principle of legality (p. 30)
 * Legal requirements for a crime to occur: *actus reus* and *mens rea* (p. 31)
 * Acts of omission vs. acts of commission (p. 31)
