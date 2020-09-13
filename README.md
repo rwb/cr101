@@ -306,12 +306,28 @@ Example 3
 
 * Lecture link is [here](https://youtu.be/91aRr3ZzmLw).
 * Today's lesson is the first material (pp. 25-30) for Chapter 2 and Assignment #4 which will be posted from Thursday 9/17 - Friday 9/18.
-* We define the term "law" and consider how laws are made in the United States.
-* The U.S. Constitution and the idea of constitutional law.
-* When a law is created, that law applies to a specific jurisdiction.
-* Key concept: the rule of law.
-* Customs, traditions, mores, and laws.
-* Common law and precedent (stare decisis).
-* Consistency and predictability in the law (echoes of Cesare Beccaria who we discussed previously).
-* Substantive and procedural laws.
-* Differences between civil law and criminal law.
+* We define the term "law" and consider how laws are made in the United States (p. 26).
+* The U.S. Constitution and the idea of constitutional law (p. 26).
+* When a law is created, that law applies to a specific jurisdiction (p. 26).
+* Key concept: the rule of law (p. 27)
+* Customs, traditions, mores, and laws (p. 27)
+* Common law and precedent (stare decisis; p. 27)
+* Consistency and predictability in the law (echoes of Cesare Beccaria who we discussed previously; p. 27)
+* Substantive and procedural laws (p. 30)
+* Differences between civil law and criminal law (p. 30).
+
+### Lesson 15 - Sunday 9/13/20
+
+* Lecture link is coming soon.
+* Principle of legality (p. 30)
+* Legal requirements for a crime to occur: *actus reus* and *mens rea* (p. 31)
+* Acts of omission vs. acts of commission (p. 31)
+* Strict liability (p. 32)
+* Cause and effect in the criminal law (direct, concurrent, and proximate causes; p. 32)
+* Harm requirement (pp. 32-33)
+* Harm in the case of crimes like drug use and drug selling (p. 33).
+* Crimes against persons -- violent crimes (p. 33).
+* Property crimes (p. 34)
+* Public order offenses (pp. 34-35)
+* Drug offenses (p. 35).
+* White-collar offenses (pp. 35-36).
