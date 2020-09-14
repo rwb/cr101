@@ -331,3 +331,14 @@ Example 3
 * Public order offenses (pp. 34-35)
 * Drug offenses (p. 35).
 * White-collar offenses (pp. 35-36).
+
+### Lesson 16 - Monday 9/14/20
+
+* Lecture link is coming soon.
+* We previously discussed the concept of *actus reus* and how this is a necessary - but generally insufficient - basis for determining that a crime has occurred (p. 36).
+* This implies that we can have an action that would often be construed as a crime but still not have an actual crime.
+* Justification is the idea that a person's actions - even if they would often be considered criminal - were reasonable under the circumstances (p. 37).
+* Sometimes we do not have a crime (even with a serious action) because the person's behavior can be excused (at least in the eyes of the law; p. 37-38).
+* Commonly invoked excuses are: (1) insanity; (2) duress; (3) involuntary intoxication; and (4) age (pp. 37-39).
+* The textbook treats insanity on its own footing (pp. 38-39) and considers the M'Naghten Rule and the "substantial capacity" test.
+* Victims' rights under the law (p. 39).
