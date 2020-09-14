@@ -334,7 +334,7 @@ Example 3
 
 ### Lesson 16 - Monday 9/14/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/dnNnQzHbUOA).
 * We previously discussed the concept of *actus reus* and how this is a necessary - but generally insufficient - basis for determining that a crime has occurred (p. 36).
 * This implies that we can have an action that would often be construed as a crime but still not have an actual crime.
 * Justification is the idea that a person's actions - even if they would often be considered criminal - were reasonable under the circumstances (p. 37).
