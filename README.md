@@ -343,7 +343,7 @@ Example 3
 * The textbook treats insanity on its own footing (pp. 38-39) and considers the M'Naghten Rule and the "substantial capacity" test.
 * Victims' rights under the law (p. 39).
 
-### Lesson 17 - Tuesday 9/14/20
+### Lesson 17 - Tuesday 9/15/20
 
 * Lecture link is coming soon.
 * Today's lesson is the last material covered in Assignment #4 which will be posted on Thursday 9/17 and Friday 9/18.
