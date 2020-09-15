@@ -342,3 +342,15 @@ Example 3
 * Commonly invoked excuses are: (1) insanity; (2) duress; (3) involuntary intoxication; and (4) age (pp. 37-39).
 * The textbook treats insanity on its own footing (pp. 38-39) and considers the M'Naghten Rule and the "substantial capacity" test.
 * Victims' rights under the law (p. 39).
+
+### Lesson 17 - Tuesday 9/14/20
+
+* Lecture link is coming soon.
+* Today's lesson is the last material covered in Assignment #4 which will be posted on Thursday 9/17 and Friday 9/18.
+* We will skip over the section called "Recent Trends in Substantive Criminal Law" (pp. 40-43) but I will put an extra credit question on this week's assignment that covers this material. The extra credit question will be worth one point.
+* Overview of procedural legal issues (pp. 43-44).
+* Legal rights explicitly mentioned in the main body of the Constitution (p. 44).
+* Constitutional amendments and amendment process (pp. 44-45).
+* Some amendments are particularly significant for American criminal justice: 4th, 5th, 6th, 8th, and 14th (pp. 46-51).
+* 4th Amendment: probibition against unreasonable searches and seizures (p. 46).
+* 5th Amendment: grand jury indictments, double jeopardy, privilege against self-incrimination, and due process clause (p. 47).
