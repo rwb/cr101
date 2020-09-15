@@ -351,6 +351,9 @@ Example 3
 * Overview of procedural legal issues (pp. 43-44).
 * Legal rights explicitly mentioned in the main body of the Constitution (p. 44).
 * Constitutional amendments and amendment process (pp. 44-45).
+* U.S. Supreme Court has the power to interpret the constitution (and declare laws unconstitutional).
+* Supreme Court asserted this power for itself in *Marbury v. Madison* (1803) when it declared the Federal Judiciary Act of 1789 unconstitutional.
+* Many different American courts can rule on issues of constitutional law but the Supreme Court has the final say.
 * Some amendments are particularly significant for American criminal justice: 4th, 5th, 6th, 8th, and 14th (pp. 46-51).
 * 4th Amendment: probibition against unreasonable searches and seizures (p. 46).
 * 5th Amendment: grand jury indictments, double jeopardy, privilege against self-incrimination, and due process clause (p. 47).
