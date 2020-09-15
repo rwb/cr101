@@ -345,7 +345,7 @@ Example 3
 
 ### Lesson 17 - Tuesday 9/15/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/iE5ySfPBIZ8).
 * Today's lesson is the last material covered in Assignment #4 which will be posted on Thursday 9/17 and Friday 9/18.
 * We will skip over the section called "Recent Trends in Substantive Criminal Law" (pp. 40-43) but I will put an extra credit question on this week's assignment that covers this material. The extra credit question will be worth one point.
 * Overview of procedural legal issues (pp. 43-44).
