@@ -357,3 +357,12 @@ Example 3
 * Some amendments are particularly significant for American criminal justice: 4th, 5th, 6th, 8th, and 14th (pp. 46-51).
 * 4th Amendment: probibition against unreasonable searches and seizures (p. 46).
 * 5th Amendment: grand jury indictments, double jeopardy, privilege against self-incrimination, and due process clause (p. 47).
+
+### Lesson 18 - Saturday 9/19/20
+
+* Lecture link is coming soon.
+* Today's lecture is the beginning of the material covered on Assignment #5 (9/24-9/25)
+* Description of the U.S. Supreme Court and appellate process (pp. 43-51).
+* Continuation of 4th and 5th Amendments (pp. 46-47).
+* 6th Amendment (p. 48) - speedy trial, public trial, jury trial, and right to counsel
+* 8th Amendment (p. 49) - cruel and unusual punishments.
