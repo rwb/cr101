@@ -360,9 +360,9 @@ Example 3
 
 ### Lesson 18 - Saturday 9/19/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/J3AIopNTlrE).
 * Today's lecture is the beginning of the material covered on Assignment #5 (9/24-9/25)
 * Description of the U.S. Supreme Court and appellate process (pp. 43-51).
 * Continuation of 4th and 5th Amendments (pp. 46-47).
 * 6th Amendment (p. 48) - speedy trial, public trial, jury trial, and right to counsel
-* 8th Amendment (p. 49) - cruel and unusual punishments.
+* 8th Amendment (p. 49) - excessive bail/fines, cruel and unusual punishments.
