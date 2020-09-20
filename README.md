@@ -366,3 +366,16 @@ Example 3
 * Continuation of 4th and 5th Amendments (pp. 46-47).
 * 6th Amendment (p. 48) - speedy trial, public trial, jury trial, and right to counsel
 * 8th Amendment (p. 49) - excessive bail/fines, cruel and unusual punishments.
+
+### Lesson 19 - Sunday 9/20/20
+
+* Lecture link is coming soon.
+* Search warrants, probable cause, and the exclusionary rule; *Mapp v. Ohio* (1961) (page 46).
+* Good faith exception to the exclusionary rule (p. 46).
+* Double jeopardy (In re Winship, 1970) and self-incrimination (Miranda v. Arizona, 1966) (p. 47).
+* Jury trial (Duncan v. Louisiana, 1968) and right to counsel (Gideon v. Wainwright, 1963) (p. 48).
+* Cruel and unusual punishment (Robinson v. California, 1962; Furman v. Georgia, 1972; Gregg v. Georgia, 1976)
+* Fourteenth Amendment (1868; due process and equal protection clauses)
+* Incorporation (pp. 50-51)
+* Incorporation: Chicago, Burlington & Quincy Railroad Co. v. City of Chicago (1897)
+* First incorporation in a criminal case: Gitlow v. New York (1925).
