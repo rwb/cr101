@@ -369,13 +369,17 @@ Example 3
 
 ### Lesson 19 - Sunday 9/20/20
 
-* Lecture link is coming soon.
+* Lecture link [here](https://youtu.be/tWJRK4sa5uI).
 * Search warrants, probable cause, and the exclusionary rule; *Mapp v. Ohio* (1961) (page 46).
 * Good faith exception to the exclusionary rule (p. 46).
 * Double jeopardy (In re Winship, 1970) and self-incrimination (Miranda v. Arizona, 1966) (p. 47).
 * Jury trial (Duncan v. Louisiana, 1968) and right to counsel (Gideon v. Wainwright, 1963) (p. 48).
 * Cruel and unusual punishment (Robinson v. California, 1962; Furman v. Georgia, 1972; Gregg v. Georgia, 1976)
 * Fourteenth Amendment (1868; due process and equal protection clauses)
+
+### Lesson 20 - Monday 9/21/20
+
+* Lecture link will be posted on Monday 9/21/20
 * Incorporation (pp. 50-51)
 * Incorporation: Chicago, Burlington & Quincy Railroad Co. v. City of Chicago (1897)
 * First incorporation in a criminal case: Gitlow v. New York (1925).
