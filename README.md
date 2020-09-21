@@ -372,9 +372,9 @@ Example 3
 * Lecture link [here](https://youtu.be/tWJRK4sa5uI).
 * Search warrants, probable cause, and the exclusionary rule; *Mapp v. Ohio* (1961) (page 46).
 * Good faith exception to the exclusionary rule (p. 46).
-* Double jeopardy (In re Winship, 1970) and self-incrimination (Miranda v. Arizona, 1966) (p. 47).
-* Jury trial (Duncan v. Louisiana, 1968) and right to counsel (Gideon v. Wainwright, 1963) (p. 48).
-* Cruel and unusual punishment (Robinson v. California, 1962; Furman v. Georgia, 1972; Gregg v. Georgia, 1976)
+* Double jeopardy (*In re Winship*, 1970) and self-incrimination (*Miranda v. Arizona*, 1966) (p. 47).
+* Jury trial (*Duncan v. Louisiana*, 1968) and right to counsel (*Gideon v. Wainwright*, 1963) (p. 48).
+* Cruel and unusual punishment (*Robinson v. California*, 1962; *Furman v. Georgia*, 1972; *Gregg v. Georgia*, 1976)
 * Fourteenth Amendment (1868; due process and equal protection clauses)
 
 ### Lesson 20 - Monday 9/21/20
@@ -383,7 +383,7 @@ Example 3
 * Judicial review (p. 50)
 * Incorporation (pp. 50-51)
 * First example of incorporation: *Chicago, Burlington & Quincy Railroad Co. v. City of Chicago* (1897).
-* First incorporation in a criminal case: Gitlow v. New York (1925).
+* First incorporation in a criminal case: *Gitlow v. New York* (1925).
 * A recent example of 4th Amendment litigation related to searches and seizures: *Maryland v. King* (2013; [link](https://www.supremecourt.gov/opinions/12pdf/12-207_d18e.pdf))
 * This case provides us with a bridge from Chapter 2 to Chapter 3 (criminal law to policing).
 * Policing serves as the gateway to the American criminal justice system.
