@@ -379,10 +379,10 @@ Example 3
 
 ### Lesson 20 - Monday 9/21/20
 
-* Lecture link is [here](https://youtu.be/zEd-jf6rQUM).
+* Lecture link is coming soon.
 * Judicial review (p. 50)
 * Incorporation (pp. 50-51)
-* Incorporation: Chicago, Burlington & Quincy Railroad Co. v. City of Chicago (1897) - note, in the lecture I mentioned that this case arose out of a dispute pertaining to the 4th Amendment; that was incorrect. Instead, the case arose from a dispute over the proper interpretation of the 5th Amendment.
+* Incorporation: Chicago, Burlington & Quincy Railroad Co. v. City of Chicago (1897).
 * First incorporation in a criminal case: Gitlow v. New York (1925).
 * A recent example of 4th Amendment litigation related to searches and seizures: *Maryland v. King* (2013; [link](https://www.supremecourt.gov/opinions/12pdf/12-207_d18e.pdf))
 * This case provides us with a bridge from Chapter 2 to Chapter 3 (criminal law to policing).
