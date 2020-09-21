@@ -387,4 +387,4 @@ Example 3
 * A recent example of 4th Amendment litigation related to searches and seizures: *Maryland v. King* (2013; [link](https://www.supremecourt.gov/opinions/12pdf/12-207_d18e.pdf))
 * This case provides us with a bridge from Chapter 2 to Chapter 3 (criminal law to policing).
 * Policing serves as the gateway to the American criminal justice system.
-* Fraction of people who ever get arrested by the police (by age 23) ([link]https://www.prisonlegalnews.org/media/publications/pediatrics_journal_cumulative_prevalence_of_arrest_from_ages_8-23_in_a_national_sample_2011.pdf)).
+* Fraction of people who ever get arrested by the police (by age 23) ([link](https://www.prisonlegalnews.org/media/publications/pediatrics_journal_cumulative_prevalence_of_arrest_from_ages_8-23_in_a_national_sample_2011.pdf)).
