@@ -379,7 +379,7 @@ Example 3
 
 ### Lesson 20 - Monday 9/21/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/KltC_q-ubdc)
 * Judicial review (p. 50)
 * Incorporation (pp. 50-51)
 * First example of incorporation: *Chicago, Burlington & Quincy Railroad Co. v. City of Chicago* (1897).
