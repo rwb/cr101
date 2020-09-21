@@ -380,6 +380,11 @@ Example 3
 ### Lesson 20 - Monday 9/21/20
 
 * Lecture link will be posted on Monday 9/21/20
+* Judicial review (p. 50)
 * Incorporation (pp. 50-51)
 * Incorporation: Chicago, Burlington & Quincy Railroad Co. v. City of Chicago (1897)
 * First incorporation in a criminal case: Gitlow v. New York (1925).
+* A recent example of 4th Amendment litigation related to searches and seizures: *Maryland v. King* (2013; [link](https://www.supremecourt.gov/opinions/12pdf/12-207_d18e.pdf))
+* This case provides us with a bridge from Chapter 2 to Chapter 3 (criminal law to policing).
+* Policing serves as the gateway to the American criminal justice system.
+* Fraction of people who ever get arrested by the police ([link](https://d1wqtxts1xzle7.cloudfront.net/32982174/Turner_-_Appendix_A_-_2012c.pdf?1392254078=&response-content-disposition=inline%3B+filename%3DThe_Cumulative_Prevalence_of_Arrest_from.pdf&Expires=1600708578&Signature=VRmq8rcJ~exZVZwG9Y57pPj7BlFF98egUOg44z3TMkJs0RbB8SBDHZXPE2xcJ5AzoLiAPFehrsOPUjM8AgMDe7EReX9vRDwSlsx9Dwtw7DTB8V6fePP-j381zxtvj6K3SlfpXn~vJLlbx57i~HSc5HLOqQZwEiY3YVkV783sY5ISAkt2EJUHElBTZRYSm7V0aQYry9kq03d8~mnxWH-3UkIy9QZeIHKYG2c4V14h6Mhl~d04jmW7iGNnJewZZEQvK371NmcQWYKaQjt4CXcBPYhlyYIJH9tPwmkZyaFQlIYU9HT6DxRkhl3~yquO5sYbK8SP1AmCuR-yF7p4QBCx5Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)).
