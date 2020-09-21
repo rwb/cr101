@@ -382,7 +382,7 @@ Example 3
 * Lecture link is coming soon.
 * Judicial review (p. 50)
 * Incorporation (pp. 50-51)
-* Incorporation: Chicago, Burlington & Quincy Railroad Co. v. City of Chicago (1897).
+* First example of incorporation: *Chicago, Burlington & Quincy Railroad Co. v. City of Chicago* (1897).
 * First incorporation in a criminal case: Gitlow v. New York (1925).
 * A recent example of 4th Amendment litigation related to searches and seizures: *Maryland v. King* (2013; [link](https://www.supremecourt.gov/opinions/12pdf/12-207_d18e.pdf))
 * This case provides us with a bridge from Chapter 2 to Chapter 3 (criminal law to policing).
