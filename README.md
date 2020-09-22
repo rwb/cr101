@@ -392,6 +392,7 @@ Example 3
 ### Lesson 21 - Tuesday 9/22/20
 
 * Lecture link is [here](https://youtu.be/x6aATSyabTk).
+* Today's lesson is the last material covered on Assignment #5 which will be posted from Thursday 9/24 to Friday 9/25.
 * Today we begin the material covered in Chapter 3 (pp. 54-56).
 * Police are gatekeepers for the criminal justice system.
 * Three main sets of police responsibilities: law enforcement, order maintenance, and community service.
