@@ -388,3 +388,14 @@ Example 3
 * This case provides us with a bridge from Chapter 2 to Chapter 3 (criminal law to policing).
 * Policing serves as the gateway to the American criminal justice system.
 * Fraction of people who ever get arrested by the police (by age 23) ([link](https://www.prisonlegalnews.org/media/publications/pediatrics_journal_cumulative_prevalence_of_arrest_from_ages_8-23_in_a_national_sample_2011.pdf)).
+
+### Lesson 21 - Tuesday 9/22/20
+
+* Lecture link is coming soon.
+* Today we begin the material covered in Chapter 3 (pp. 54-56).
+* Police are gatekeepers for the criminal justice system.
+* Three main sets of police responsibilities: law enforcement, order maintenance, and community service.
+* An essential element of police work is discretion.
+* Quality of police response often depends on public cooperation and confidence.
+* Crime prevention - community coordination and patrol practices.
+* Crime response - investigation, enforcement, and arrest.
