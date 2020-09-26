@@ -414,3 +414,11 @@ Example 3
 * Intelligence-led policing (p. 59).
 * Kansas City Preventive Patrol Experiment (p. 59)
 * Minneapolis Domestic Violence Experiment (p. 59)
+
+<p align="center">
+<img src="fig5.png" width="500px">
+</p>
+
+<p align="center">
+<img src="fig2.png" width="600px">
+</p>
