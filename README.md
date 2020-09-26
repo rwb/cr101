@@ -403,7 +403,7 @@ Example 3
 
 ### Lesson 22 - Saturday 9/26/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/GQCo7jknVFo).
 * Today's lesson is the first material being covered on Assignment #6 which will be posted from Thursday 10/1 to Friday 10/2.
 * We are continuing with Chapter 3 on policing (discussing pp. 54-59).
 * Brief review of law enforcement role (pp. 54-56).
