@@ -400,3 +400,17 @@ Example 3
 * Quality of police response often depends on public cooperation and confidence.
 * Crime prevention - community coordination and patrol practices.
 * Crime response - investigation, enforcement, and arrest.
+
+### Lesson 22 - Saturday 9/26/20
+
+* Lecture link is coming soon.
+* Today's lesson is the first material being covered on Assignment #6 which will be posted from Thursday 10/1 to Friday 10/2.
+* We are continuing with Chapter 3 on policing (discussing pp. 54-59).
+* Brief review of law enforcement role (pp. 54-56).
+* Order maintenance (p. 56)
+* Police and community service (pp. 56-57).
+* Policing and society (pp. 57-59).
+* Political, professional, and community-oriented eras of policing (not in book but several of the readings listed on p. 81 emphasize this historical evolution of the police).
+* Intelligence-led policing (p. 59).
+* Kansas City Preventive Patrol Experiment (p. 59)
+* Minneapolis Domestic Violence Experiment (p. 59)
