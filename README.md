@@ -430,6 +430,7 @@ Example 3
 * More on intelligence-led policing (p. 59): KC Preventive Patrol Experiment; Minneapolis DV Experiment
 * Comp-stat and crime analysis technology (p. 59)
 * Community-level interventions and evaluation in policing (not in reading).
+* Example: Kansas City Gun Experiment [here - *optional* reading](https://www.ncjrs.gov/pdffiles/kang.pdf).
 
 <p align="center">
 <img src="kcge.png" width="600px">
