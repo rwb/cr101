@@ -422,3 +422,15 @@ Example 3
 <p align="center">
 <img src="fig2.png" width="600px">
 </p>
+
+### Lesson 23 - Sunday 9/27/20
+
+* Lecture link is coming soon.
+* Problem-oriented policing and evaluation in policing (p. 59).
+* More on intelligence-led policing (p. 59): KC Preventive Patrol Experiment; Minneapolis DV Experiment
+* Comp-stat and crime analysis technology (p. 59)
+* Community-level interventions and evaluation in policing (not in reading).
+
+<p align="center">
+<img src="kcge.png" width="600px">
+</p>
