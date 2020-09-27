@@ -425,7 +425,7 @@ Example 3
 
 ### Lesson 23 - Sunday 9/27/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/9XYWJ0K1R6w).
 * Problem-oriented policing and evaluation in policing (p. 59).
 * More on intelligence-led policing (p. 59): KC Preventive Patrol Experiment; Minneapolis DV Experiment
 * Comp-stat and crime analysis technology (p. 59)
