@@ -435,3 +435,19 @@ Example 3
 <p align="center">
 <img src="kcge.png" width="600px">
 </p>
+
+### Lesson 24 - Monday 9/28/20
+
+* Lecture link is coming soon.
+* Variation in policing and law enforcement agencies (pp. 60-64).
+* Federal vs. state vs. local authority (due to federalism; pp. 60-62).
+* The jurisdiction of the agencies at these different levels sometimes differs and sometimes overlaps (pp. 62-63).
+* Local police vs. sheriff's departments (p. 60).
+* Special police (universities, school districts, state offices, transit police) (p. 61).
+* State police - patrol and investigation (p. 61).
+* Federal law enforcement (pp. 61-63).
+* U.S. Justice Department (FBI, U.S. Marshals Service, Bureau of Alcohol, Tobacco, and Firearms, Drug Enforcement Administration).
+* U.S. Homeland Security Department (Secret Service, Customs and Border Protection, Immigration and Customs Enforcement, Coast Guard).
+* Key changes in federal law enforcement structure when compare periods before and after 2003.
+* Tribal law enforcement (p. 63).
+* Private police (p. 64).
