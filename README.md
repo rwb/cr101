@@ -438,7 +438,7 @@ Example 3
 
 ### Lesson 24 - Monday 9/28/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/nZY6iDcQthE).
 * Variation in policing and law enforcement agencies (pp. 60-64).
 * Federal vs. state vs. local authority (due to federalism; pp. 60-62).
 * The jurisdiction of the agencies at these different levels sometimes differs and sometimes overlaps (pp. 62-63).
