@@ -451,3 +451,16 @@ Example 3
 * Key changes in federal law enforcement structure when compare periods before and after 2003.
 * Tribal law enforcement (p. 63).
 * Private police (p. 64).
+
+### Lesson 25 - Tuesday 9/29/20
+
+* Lecture link is coming soon.
+* Today's material concludes the information covered on Assignment #6 which will be open from Thursday 10/1 to Friday 10/2.
+* Hierarchical organization (p. 65)
+* Police employees (p. 65)
+* Specialized responsibilities (pp. 65-66)
+* Patrol distrticts and beats; beat integrity (p. 66)
+* Shift work (p. 67)
+* Policing career pathways (pp. 67-68)
+* Hiring processes for police agencies (pp. 68-69)
+* Training and promotion (pp. 69-71)
