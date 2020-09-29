@@ -454,7 +454,7 @@ Example 3
 
 ### Lesson 25 - Tuesday 9/29/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/7udOLd6xwB8).
 * Today's material concludes the information covered on Assignment #6 which will be open from Thursday 10/1 to Friday 10/2.
 * Hierarchical organization (p. 65)
 * Police employees (p. 65)
