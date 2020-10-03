@@ -467,7 +467,7 @@ Example 3
 
 ### Lesson 26 - Saturday 10/3/20
 
-* Lecture link is [here](https://youtu.be/5fhvLmunRrA).
+* Lecture link is [here](https://youtu.be/RCEaV1x1Mw0).
 * Today's lesson is the first material covered by Assignment #7 which will be posted on Thursday 10/8 to Friday 10/9.
 * Training and promotion (continued -- pp. 69-71). 
 * Cultural issues in American policing (pp. 71-72).
