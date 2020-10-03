@@ -472,6 +472,7 @@ Example 3
 * Training and promotion (continued -- pp. 69-71). 
 * Cultural issues in American policing (pp. 71-72).
 * Corruption, harassment, and use of force (pp. 72-76).
+* Measurement of killings of police: 86 (45 accidental/41 criminal) officers killed in 2015 and 118 (52 accidental/66 criminal) were killed in 2016.
 * Measurement of police use of force
 * Police killings database from *The Guardian* ([link](https://www.theguardian.com/us-news/series/counted-us-police-killings))
 * Average/median age of people killed by police in 2015: 37.1/35
