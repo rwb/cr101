@@ -487,11 +487,11 @@ Example 3
 </p>
 
 * Consider the table below. We can learn a few things from it.
-* p(person killed is Black) can't be precisely estimated but it can be bounded.
+* The fraction of people who are killed by police who are Black can't be precisely estimated but it can be bounded.
 * Lower bound on number of Black persons killed is 573.
 * Upper bound on number of Black persons killed is 573 + 41 = 614
-* Lower bound on probability that a person killed is Black is 573/2239 = 25.6% 
-* Upper bound on probability that a person killed is Black is 614/2239 = 27.4% 
+* Lower bound on fraction of people killed who are Black is 573/2239 = 25.6% 
+* Upper bound on fraction of people killed who are Black is 614/2239 = 27.4% 
 * According to recent Census estimates, the U.S. population is 13.4% Black
 * We will do some more work with this table in our next lesson.
 
