@@ -473,7 +473,7 @@ Example 3
 * Cultural issues in American policing (pp. 71-72).
 * Corruption, harassment, and use of force (pp. 72-76).
 * Measurement of police use of force
-* Police killings database from *The Guardian* [link](https://www.theguardian.com/us-news/series/counted-us-police-killings)
+* Police killings database from *The Guardian* ([link](https://www.theguardian.com/us-news/series/counted-us-police-killings))
 * Average/median age of people killed by police in 2015: 37.1/35
 * Average/median age of people killed by police in 2016: 36.8/35
 
