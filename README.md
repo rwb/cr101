@@ -476,6 +476,9 @@ Example 3
 * Measurement of assaults of police: 50,212 officers assaulted in 2015; 57,180 officers assaulted in 2016 ([source](https://www.fbi.gov/news/stories/2016-leoka-report-released)).
 * Measurement of police use of force
 * Police killings database from *The Guardian* ([link](https://www.theguardian.com/us-news/series/counted-us-police-killings))
+* Number of people killed by police in 2015: 1146.
+* Number of people killed by police in 2016: 1093.
+* Total number of people killed by police in both years combined: 2239.
 * Average/median age of people killed by police in 2015: 37.1/35
 * Average/median age of people killed by police in 2016: 36.8/35
 
