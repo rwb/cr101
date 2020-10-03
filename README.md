@@ -464,3 +464,36 @@ Example 3
 * Policing career pathways (pp. 67-68)
 * Hiring processes for police agencies (pp. 68-69)
 * Training and promotion (pp. 69-71)
+
+### Lesson 26 - Saturday 10/3/20
+
+* Lecture link is coming soon.
+* Today's material marks the beginning of what we will cover for Assignment #7.
+* Training and promotion (continued -- pp. 69-71). 
+* Cultural issues in American policing (pp. 71-72).
+* Corruption, harassment, and use of force (pp. 72-76).
+* Measurement of police use of force
+* Police killings database from *The Guardian* [link](https://www.theguardian.com/us-news/series/counted-us-police-killings)
+* Average/median age of people killed by police in 2015: 37.1/35
+* Average/median age of people killed by police in 2016: 36.8/35
+
+<p align="center">
+<img src="police-killings.png" width="600px">
+</p>
+
+* Consider the table below. We can learn a few things from it.
+* p(person killed is Black) can't be precisely estimated but it can be bounded.
+* Lower bound on number of Black persons killed is 573.
+* Upper bound on number of Black persons killed is 573 + 41 = 614
+* Lower bound on probability that a person killed is Black is 573/2239 = 25.6% 
+* Upper bound on probability that a person killed is Black is 614/2239 = 27.4% 
+* According to recent Census estimates, the U.S. population is 13.4% Black
+* We will do some more work with this table in our next lesson.
+
+
+| Weapon     | Race = Black | Race = Non-Black | Race = ? | Total |
+|:-----------|-------------:|-----------------:|---------:|------:| 
+|No          | 121          | 281              | 3        | 405   | 
+|Yes         | 414          | 1242             | 35       | 1691  | 
+|?           | 38           | 102              | 3        | 143   | 
+|Total       | 573          | 1625             | 41       | 2239  |
