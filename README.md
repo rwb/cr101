@@ -506,7 +506,7 @@ Example 3
 ### Lesson 27 - Sunday 10/4/20
 
 * Lecture link is coming soon.
-* The Guardian database doesn't have a lot of detailed information about each case.
+* The Guardian database doesn't have much detailed information about each case.
 * This limits our ability to answer questions about why disparities might exist.
 * One indicator that is in the data is the presence or absence of a weapon.
 * So we can use the data to calculate the fraction of "no weapon" cases for each group.
