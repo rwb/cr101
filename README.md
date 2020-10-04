@@ -502,3 +502,33 @@ Example 3
 |Yes         | 414          | 1242             | 35       | 1691  | 
 |Weapon = ?  | 38           | 102              | 3        | 143   | 
 |Total       | 573          | 1625             | 41       | 2239  |
+
+### Lesson 27 - Sunday 10/4/20
+
+* Lecture link is coming soon.
+* The Guardian database doesn't have a lot of detailed information about each case.
+* This limits our ability to answer questions about why disparities might exist.
+* One indicator that is in the data is the presence or absence of a weapon.
+* So we can use the data to calculate the fraction of "no weapon" cases for each group.
+
+| Parameter Description                                |  Estimate                     | 
+|:-----------------------------------------------------|------------------------------:| 
+|1. Fraction of "No Weapon" Cases - Black              | 121/(121+414) = 0.226         | 
+|2. Fraction of "No Weapon" Cases - Non-Black          | 281/(281+1242) = 0.185        | 
+|3. Delta: 1-2                                         | 0.226-0.185 = 0.041           | 
+|4. 95% Confidence Interval for Delta                  | 0.003, 0.081                  |
+|5. Lower Bound of Delta Considering Missing Cases     | -0.040                        |
+|6. Upper Bound of Delta Considering Missing Cases     | 0.116                         |
+|7. Confidence Limits on Bounds                        | -0.084, 0.159                 |
+
+* The most significant problem with these data is the missing information on race and whether the person who was killed had a weapon.
+* If the missing cases are randomly missing, then we can conclude that "no-weapon" cases occur more often among Black persons than among Non-Black persons.
+* Yet the analysis shows that these missing cases create enough uncertainty that we can't draw strong conclusions.
+* The problem in this example underscores the weaknesses of the kind of data we often have to study race disparities and other important issues related to police use of force.
+* As the book suggests, our discussions of excessive police use of force tend to be dominated by the circumstances of specific cases (pp. 74-77).
+* Discussion of specific cases is necessary and useful. Evidence that arisen in specific cases has led to criminal prosecutions for wrongdoing, legal judgments and settlements for victims' families, and important reforms and improvements.
+* Still, we should not be in a position where rely exclusively on cases that happen to attract large amounts of attention.
+* Instead, we should be developing a measurement infrastructure that will allow us to measure police use of force (both legitimate and excessive) in a systematic way.
+* Issues related to mental health and immigrant populations are highlighted in the textbook as special concerns for contemporary policing (p. 77).
+* Emerging challenges for policing: (1) technology; (2) decarceration; and (3) drug, toxic substance, and virus exposure (pp. 78-80).
+* In our next lesson, we will transition to Chapter 4.
