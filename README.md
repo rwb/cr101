@@ -505,7 +505,7 @@ Example 3
 
 ### Lesson 27 - Sunday 10/4/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/sJXtKKqonv4).
 * The Guardian database doesn't have much detailed information about each case.
 * This limits our ability to answer questions about why disparities might exist.
 * One indicator that is in the data is the presence or absence of a weapon.
