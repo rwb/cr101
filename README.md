@@ -532,3 +532,14 @@ Example 3
 * Issues related to mental health and immigrant populations are highlighted in the textbook as special concerns for contemporary policing (p. 77).
 * Emerging challenges for policing: (1) technology; (2) decarceration; and (3) drug, toxic substance, and virus exposure (pp. 78-80).
 * In our next lesson, we will transition to Chapter 4.
+
+### Lesson 28 - Monday 10/5/20
+
+* Lecture link is coming soon.
+* In today's lesson, we turn to the material in Chapter 4 - The Court System.
+* The United States is organized into a system of federal and state courts -- each with its own jurisdiction (dual system, p. 83).
+* Conflict of laws (pp. 83-84).
+* Jurisdiction refers to the zone of cases that a court is empowered to adjudicate (p. 84).
+* Example: juvenile vs. adult court (p. 84) and the complicating issue of judicial waiver.
+* Adversarial justice system (p. 84).
+* Packer's (1968) crime control and due process models of court case processing practices (p. 85).
