@@ -535,7 +535,7 @@ Example 3
 
 ### Lesson 28 - Monday 10/5/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/miSHu1T2z_c).
 * In today's lesson, we turn to the material in Chapter 4 - The Court System.
 * The United States is organized into a system of federal and state courts -- each with its own jurisdiction (dual system, p. 83).
 * Conflict of laws (pp. 83-84).
