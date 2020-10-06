@@ -546,7 +546,7 @@ Example 3
 
 ### Lesson 29 - Tuesday 10/6/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/64xm6ToEZPk).
 * In today's lesson, we continue moving through Chapter 4.
 * Key language pertaining to courts in Article III of the Constitution: "The judicial power of the United States shall be vested in one supreme court, and in such inferior courts as the Congress may from time to time ordain and establish" (p. 86).
 * This language pertains to the development of federal courts only; state courts were left to the individual states.
