@@ -543,3 +543,26 @@ Example 3
 * Example: juvenile vs. adult court (p. 84) and the complicating issue of judicial waiver.
 * Adversarial justice system (p. 84).
 * Packer's (1968) crime control and due process models of court case processing practices (p. 85).
+
+### Lesson 29 - Tuesday 10/6/20
+
+* Lecture link is coming soon.
+* In today's lesson, we continue moving through Chapter 4.
+* Key language pertaining to courts in Article III of the Constitution: "The judicial power of the United States shall be vested in one supreme court, and in such inferior courts as the Congress may from time to time ordain and establish" (p. 86).
+* This language pertains to the development of federal courts only; state courts were left to the individual states.
+* During the very first Congress, the Judiciary Act of 1789 was passed by Congress and signed by President Washington (p. 86).
+* This legislation established the first U.S. District Courts and Appeals Courts (pp. 86-87).
+* The original federal districts were states and no federal districts crossed state lines (p. 86).
+* Now, we have nearly 100 district courts (a number of states have more than one district) (p. 86).
+* Federal district courts are courts of original jurisdiction (p. 86).
+* The Judiciary Act of 1789 created three appellate courts covering different regions or "circuits" (southern, middle, and eastern) of the nation (p. 87).
+* Today, there are 11 circuits (NC and SC are in the 4th circuit which is located in Richmond, VA) plus the DC circuit ([link to map here](https://www.uscourts.gov/sites/default/files/u.s._federal_courts_circuit_map_1.pdf))
+* Appeals courts have no discretionary authority to accept or decline appeals. Any party who receives an adverse ruling in Federal District Court has the right to appeal the decision to the appropriate Circuit Court of Appeal (p. 87).
+* Most appeals court cases are heard by a 3-judge panel but for some cases a broader group of judges will hear the case (*en banc* proceedings).
+* The U.S. Supreme Court was also established by the Judiciary Act of 1789 (p. 88) but its role was poorly defined until *Marbury v. Madison* (1803).
+* In *Marbury*, the Supreme Court established the principle of judicial review.
+* The original structure of the Court was 5 associate justices and one chief justice; since 1869, the Court has had 8 associate justices and 1 chief justice.
+* In most cases, the Supreme Court acts as an appeals court and makes the final decision on matters of constitutional law (p. 88).
+* The Supreme Court has discretion over which appellate cases it will hear (if the Court chooses to hear an appeal it will issue a *writ of certiorari*) (p. 89).
+* In some cases, such as disputes between states, the Supreme Court acts as a court of original jurisdiction. These are rare (pp. 88-89).
+* This concludes the material we will cover for Assignment #7.
