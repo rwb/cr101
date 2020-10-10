@@ -569,7 +569,7 @@ Example 3
 
 ### Lesson 30 - Saturday 10/10/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/ei2zKZqzST8).
 * In today's lesson (first lesson for Assignment #8), we continue working on  Chapter 4.
 * Most American criminal justice occurs at the state and local level - not the federal level.
 * It follows that most criminal court work also occurs at the state and local level.
