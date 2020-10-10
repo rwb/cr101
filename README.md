@@ -566,3 +566,19 @@ Example 3
 * The Supreme Court has discretion over which appellate cases it will hear (if the Court chooses to hear an appeal it will issue a *writ of certiorari*) (p. 89).
 * In some cases, such as disputes between states, the Supreme Court acts as a court of original jurisdiction. These are rare (pp. 88-89).
 * This concludes the material we will cover for Assignment #7.
+
+### Lesson 30 - Saturday 10/10/20
+
+* Lecture link is coming soon.
+* In today's lesson (first lesson for Assignment #8), we continue working on  Chapter 4.
+* Most American criminal justice occurs at the state and local level - not the federal level.
+* It follows that most criminal court work also occurs at the state and local level.
+* Your textbook points out that about 85% of U.S. courts are original jurisdiction local limited jurisdiction trial courts (pp. 90-91).
+* In South Carolina, these courts are called magistrate courts; North Carolina calls them district courts.
+* Higher level trial courts are reserved for more serious offenses (In South Carolina, these courts are called "General Sessions" courts); your textbook calls these courts "Trial Courts of Original Jurisdiction" (p. 92).
+* Many jurisdictions have a range of specialized courts dealing with certain kinds of offenses (drug courts, domestic violence courts, mental health courts etc.).
+* State appeals courts (p. 92) and state supreme courts (pp. 92-93)
+* Sometimes state supreme court cases can be appealed into the federal system but only if a federal constitutional issue is presented.
+* Selection of state and federal judges (pp. 93-95).
+* Prosecutors (pp. 96-97).
+* Defense attorneys (pp. 97-99).
