@@ -570,7 +570,7 @@ Example 3
 ### Lesson 30 - Saturday 10/10/20
 
 * Lecture link is [here](https://youtu.be/ei2zKZqzST8).
-* In today's lesson (first lesson for Assignment #8), we continue working on  Chapter 4.
+* In today's lesson (first lesson for Assignment #8), we continue working on Chapter 4.
 * Most American criminal justice occurs at the state and local level - not the federal level.
 * It follows that most criminal court work also occurs at the state and local level.
 * Your textbook points out that about 85% of U.S. courts are original jurisdiction local limited jurisdiction trial courts (pp. 90-91).
@@ -582,3 +582,16 @@ Example 3
 * Selection of state and federal judges (pp. 93-95).
 * Prosecutors (pp. 96-97).
 * Defense attorneys (pp. 97-99).
+
+### Lesson 31 - Sunday 10/11/20
+
+* Lecture link is coming soon.
+* In today's lesson, we continue working on  Chapter 4.
+* A little more on defense attorneys (pp. 97-99).
+* Other courtroom workers (pp. 99-100).
+* Judicial process related to arrest (p. 100).
+* Initial appearance/arraignment (p. 100); some states make an important distinction between felonies and misdemeanors at this stage.
+* Bail and pretrial detention (pp. 100-101).
+* In the federal system, a grand jury indictment is required to charge someone with a felony; many - but not all - states also follow this same process (this [link](https://www.justice.gov/usao/justice-101/charging) from the U.S. Department of Justice has a good explanation).
+* Preliminary hearing (pp. 101-102).
+* Plea agreements (pp. 102-103).
