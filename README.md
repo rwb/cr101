@@ -585,7 +585,7 @@ Example 3
 
 ### Lesson 31 - Sunday 10/11/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/UxfLYz1U0iQ).
 * In today's lesson, we continue working on  Chapter 4.
 * A little more on defense attorneys (pp. 97-99).
 * Other courtroom workers (pp. 99-100).
