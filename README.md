@@ -595,3 +595,17 @@ Example 3
 * In the federal system, a grand jury indictment is required to charge someone with a felony; many - but not all - states also follow this same process (this [link](https://www.justice.gov/usao/justice-101/charging) from the U.S. Department of Justice has a good explanation).
 * Preliminary hearing (pp. 101-102).
 * Plea agreements (pp. 102-103).
+
+### Lesson 32 - Monday 10/12/20
+
+* Lecture link is coming soon.
+* In today's lesson, we continue working on Chapter 4.
+* Charge and sentence bargains (pp. 102-103).
+* Assembly-line justice (pp. 103-104 
+* Case attrition (Figure 4.1 on p. 105)
+* Criminal trials (pp. 104-106).
+* Jury trials vs. bench trials (p. 104)
+* Jury selection (pp. 104-105)
+* Burden of proof in criminal proceedings (p. 106).
+* Rules of evidence (p. 106).
+* Conviction, acquital, and mistrial (p. 106)
