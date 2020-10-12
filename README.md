@@ -598,7 +598,7 @@ Example 3
 
 ### Lesson 32 - Monday 10/12/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/DVXgMmExG2A).
 * Reminder about how to check on your grades in Blackboard (use course tools and then go under "My Grades"; click on the assignment or the grade; you should be able to see what was marked correct, and what was marked incorrect on your assignments).
 * In today's lesson, we continue working on Chapter 4.
 * Charge and sentence bargains (pp. 102-103).
