@@ -613,7 +613,7 @@ Example 3
 
 ### Lesson 33 - Tuesday 10/13/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/bQPoYC3HR98).
 * Today's lesson is the last material covered on Assignment #8 (open on Thursday 10/15/20 - Friday 10/16/20).
 * We conclude our discussion of Chapter 4 today.
 * Our focus will be on dispositions of criminal cases in courts (pp. 106-110).
