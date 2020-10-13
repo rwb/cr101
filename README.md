@@ -617,7 +617,7 @@ Example 3
 * Today's lesson is the last material covered on Assignment #8 (open on Thursday 10/15/20 - Friday 10/16/20).
 * We conclude our discussion of Chapter 4 today.
 * Our focus will be on dispositions of criminal cases in courts (pp. 106-110).
-* Before I turn to sentencing, I want to briefly mention the issue of consent decrees and pretrial intervention programs which are not significantly discussed in the textbook.
+* Before I turn to sentencing, I want to briefly mention the related issues of charge dismissals, dropped charges, consent decrees, and pretrial intervention programs which are not significantly discussed in the textbook.
 * Indeterminate sentencing (p. 107)
 * Determinate sentencing (p. 107)
 * Sentencing guidelines (pp. 107-108)
