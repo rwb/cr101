@@ -616,7 +616,7 @@ Example 3
 * Lecture link is coming soon.
 * Today's lesson is the last material covered on Assignment #8 (open on Thursday 10/15/20 - Friday 10/16/20).
 * We conclude our discussion of Chapter 4 today.
-* Our focus will be on dispositions of criminal cases in courts (pp. 106-111).
+* Our focus will be on dispositions of criminal cases in courts (pp. 106-110).
 * Before I turn to sentencing, I want to briefly mention the issue of consent decrees and pretrial intervention programs which are not significantly discussed in the textbook.
 * Indeterminate sentencing (p. 107)
 * Determinate sentencing (p. 107)
@@ -625,4 +625,8 @@ Example 3
 * Mandatory minimum sentences (p. 108)
 * Sanction types (pp. 108-109): fines, jail, prison, probation, split sentences, intermediate sanctions, and capital punishment.
 * Constraints on punishment: 8th and 14th Amendments - "cruel and unusual punishments" are prohibited.
-* Criminal case appeals (p. 110): 
+* Criminal case appeals (p. 110): postconviction reviews and collateral attacks (habeas corpus).
+* Specialized courts: drug courts, mental health courts, and domestic violence courts (pp. 110-112).
+* Increased victim involvement in judicial proceedings (restorative justice and alternative dispute resolution (p. 112-113).
+* Court technology (pp. 113-114): case database management systems and video technology.
+* Jury consultants (p. 114).
