@@ -633,7 +633,7 @@ Example 3
 
 ### Lesson 34 - Saturday 10/17/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/0SCel3jR4QE).
 * Today's lesson is the beginning of the material covered on Assignment #9 (open on Thursday 10/22/20 - Friday 10/23/20).
 * Today's lesson also begins our coverage of the material in Chapter 5 - Institutional Corrections.
 * Institutional corrections refers to criminal punishment that takes the form of imprisonment (equivalently, incarceration).
