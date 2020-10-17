@@ -630,3 +630,25 @@ Example 3
 * Increased victim involvement in judicial proceedings (restorative justice and alternative dispute resolution (p. 112-113).
 * Court technology (pp. 113-114): case database management systems and video technology.
 * Jury consultants (p. 114).
+
+### Lesson 34 - Saturday 10/17/20
+
+* Lecture link is coming soon.
+* Today's lesson is the beginning of the material covered on Assignment #9 (open on Thursday 10/22/20 - Friday 10/23/20).
+* Today's lesson also begins our coverage of the material in Chapter 5 - Institutional Corrections.
+* Institutional corrections refers to criminal punishment that takes the form of imprisonment (equivalently, incarceration).
+* Historical methods of criminal punishment - fines, corporal punishment, capital punishment, and incarceration (pp. 117-118).
+* Dominant use of incarceration throughout history - detention prior to some other form of punishment being administered (p. 118).
+* Over time, corporal and physical punishments have become increasingly rare as social norms and expectations have changed (p. 118).
+* A modern example of this evolution is the declining use of capital punishment (my chart but the data come from Death Penalty Information Center ([link](https://deathpenaltyinfo.org/executions/execution-database)).
+
+<p align="center">
+<img src="dp.png" width="600px">
+</p>
+
+* As corporal and capital punishment have declined, the modern penitentiary has become the dominant form of criminal punishment for serious offenders (p. 118).
+* The chart below shows the population incarceration trends over (nearly) the past century (my chart but the historical data come from the Sourcebook of Criminal Justice Statistics ([link](https://www.albany.edu/sourcebook/pdf/t6282012.pdf)) and the U.S. Bureau of Justice Statistics ([link](https://www.bjs.gov/content/pub/pdf/p18.pdf)).
+
+<p align="center">
+<img src="imprate.png" width="600px">
+</p>
