@@ -655,7 +655,7 @@ Example 3
 
 ### Lesson 35 - Sunday 10/18/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/AGI9PyMFfwg).
 * In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
 * Incarceration for women (p. 119)
 * This chart is an expansion of the chart I showed in the last class which breaks down the incarceration rate separately for males and females since 1925 (my chart but the historical data come from the Sourcebook of Criminal Justice Statistics ([link](https://www.albany.edu/sourcebook/pdf/t6282012.pdf)) and the U.S. Bureau of Justice Statistics ([link](https://www.bjs.gov/content/pub/pdf/p18.pdf)).
@@ -665,8 +665,11 @@ Example 3
 </p>
 
 * In the section on incarceration for women, your book identifies three important time periods: (1) neglect era; (2) differential response period; and (3) equalization response period (pp. 119-121).
-* There were different eras of punishment more generally (pp. 121-127).
-* Era of the Penitentiary (p. 122).
-* Two different models: Pennsylvania model (heavily influenced by the Quaker denomination) and the Auburn model (p. 122).
-* Era of Reform (pp. 122-123).
-* Cincinnati Prison Congress of 1870 led to a set of principles for penal reform (pp. 122-123) including the use of imate classification systems, the abolition of the silent system, and establishment of parole.
+
+
+
+<!--- * There were different eras of punishment more generally (pp. 121-127).
+<!--- * Era of the Penitentiary (p. 122).
+<!--- * Two different models: Pennsylvania model (heavily influenced by the Quaker denomination) and the Auburn model (p. 122).
+<!--- * Era of Reform (pp. 122-123).
+<!--- * Cincinnati Prison Congress of 1870 led to a set of principles for penal reform (pp. 122-123) including the use of imate classification <!--- systems, the abolition of the silent system, and establishment of parole.
