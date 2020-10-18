@@ -652,3 +652,14 @@ Example 3
 <p align="center">
 <img src="imprate.png" width="600px">
 </p>
+
+### Lesson 35 - Sunday 10/18/20
+
+* Lecture link is coming soon.
+* In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
+* Incarceration for women (p. 119)
+* This chart is an expansion of the chart I showed in the last class which breaks down the incarceration rate separately for males and females since 1925 (my chart but the historical data come from the Sourcebook of Criminal Justice Statistics ([link](https://www.albany.edu/sourcebook/pdf/t6282012.pdf)) and the U.S. Bureau of Justice Statistics ([link](https://www.bjs.gov/content/pub/pdf/p18.pdf)).
+
+<p align="center">
+<img src="irate-gender.png" width="600px">
+</p>
