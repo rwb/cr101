@@ -668,6 +668,6 @@ Example 3
 
 ### Lesson 36 - Monday 10/19/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/T9fz9SLuGYk).
 * In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
-* I will be relying on a series of slides (in videos) for Lessons 36 and 37.
+* I will be relying on a series of slides (in videos) for Lessons 36 (today) and 37 (tomorrow).
