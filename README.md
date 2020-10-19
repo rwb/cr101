@@ -670,8 +670,4 @@ Example 3
 
 * Lecture link is coming soon.
 * In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
-* There were different eras of punishment more generally (pp. 121-127).
-* Era of the Penitentiary (p. 122).
-* Two different models: Pennsylvania model (heavily influenced by the Quaker denomination) and the Auburn model (p. 122).
-* Era of Reform (pp. 122-123).
-* Cincinnati Prison Congress of 1870 led to a set of principles for penal reform (pp. 122-123) including the use of imate classification  systems, the abolition of the silent system, and establishment of parole.
+* I will be relying on a series of slides (in videos) for Lessons 36 and 37.
