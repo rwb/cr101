@@ -666,10 +666,12 @@ Example 3
 
 * In the section on incarceration for women, your book identifies three important time periods: (1) neglect era; (2) differential response period; and (3) equalization response period (pp. 119-121).
 
+### Lesson 36 - Monday 10/19/20
 
-
-<!--- * There were different eras of punishment more generally (pp. 121-127).
-<!--- * Era of the Penitentiary (p. 122).
-<!--- * Two different models: Pennsylvania model (heavily influenced by the Quaker denomination) and the Auburn model (p. 122).
-<!--- * Era of Reform (pp. 122-123).
-<!--- * Cincinnati Prison Congress of 1870 led to a set of principles for penal reform (pp. 122-123) including the use of imate classification <!--- systems, the abolition of the silent system, and establishment of parole.
+* Lecture link is coming soon.
+* In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
+* There were different eras of punishment more generally (pp. 121-127).
+* Era of the Penitentiary (p. 122).
+* Two different models: Pennsylvania model (heavily influenced by the Quaker denomination) and the Auburn model (p. 122).
+* Era of Reform (pp. 122-123).
+* Cincinnati Prison Congress of 1870 led to a set of principles for penal reform (pp. 122-123) including the use of imate classification  systems, the abolition of the silent system, and establishment of parole.
