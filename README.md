@@ -671,3 +671,11 @@ Example 3
 * Lecture link is [here](https://youtu.be/T9fz9SLuGYk).
 * In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
 * I will be relying on a series of slides (in videos) for Lessons 36 (today) and 37 (tomorrow).
+
+### Lesson 37 - Tuesday 10/20/20
+
+* Lecture link is coming soon.
+* In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
+* We conclude this week's work with some discussion of what we know about policy effectiveness from the Retribution Era (p. 125).
+* Today's lesson concludes the material being covered on Assignment #9 which will be open on Thursday 10/22-Friday 10/23.
+* I will be relying on a series of slides for today's lesson.
