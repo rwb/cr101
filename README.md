@@ -679,3 +679,28 @@ Example 3
 * We conclude this week's work with some discussion of what we know about policy effectiveness from the Retribution Era (p. 125).
 * Today's lesson concludes the material being covered on Assignment #9 which will be open on Thursday 10/22-Friday 10/23.
 * I will be relying on a series of slides for today's lesson.
+
+### Lesson 38 - Saturday 10/24/20
+
+* Lecture link is coming soon.
+* In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
+* We've covered several different eras of corrections in recent lessons.
+* Today, we turn to the final period - the era of re-entry (pp. 125-127).
+* A significant challenge for the rehabilitation, retribution, and re-entry eras: high recidivism rates (see figures below and this [link](https://www.bjs.gov/content/pub/pdf/18upr9yfup0514.pdf)).
+* For rehabilitation: high recidivism rates raise questions about treatment effectiveness.
+* For deterrence: high recidivism rates raise questions about specific deterrent effects of sanctions.
+* For incapacitation: most prisoners eventually return to the community.
+* For re-entry: what practices can be put into place to reduce recidivism rates and improve public safety? 
+* Key question for corrections policy: How much of this work can be done in an institution and how much should be done in the community?
+
+<p align="center">
+<img src="nc-recid.png" width="600px">
+</p>
+
+<p align="center">
+<img src="pathways-recid1.png" width="600px">
+</p>
+
+<p align="center">
+<img src="pathways-recid2.png" width="600px">
+</p>
