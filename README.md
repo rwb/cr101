@@ -683,6 +683,7 @@ Example 3
 ### Lesson 38 - Saturday 10/24/20
 
 * Lecture link is coming soon.
+* Today is the first lesson for Assignment #10 (Thursday 10/29-Friday 10/30).
 * In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
 * We've covered several different eras of corrections in recent lessons.
 * Today, we turn to the final period - the era of re-entry (pp. 125-127).
