@@ -682,7 +682,7 @@ Example 3
 
 ### Lesson 38 - Saturday 10/24/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/S5KKuydDt_M).
 * Today is the first lesson for Assignment #10 (Thursday 10/29-Friday 10/30).
 * In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
 * We've covered several different eras of corrections in recent lessons.
