@@ -708,7 +708,7 @@ Example 3
 
 ### Lesson 39 - Sunday 10/25/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/sPfOFDHi3JM).
 * In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
 * Economic contractions in the early 2000's created significant pressure on state budgets (p. 126).
 * Most incarceration in the US occurs at the state level.
