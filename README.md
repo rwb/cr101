@@ -705,3 +705,15 @@ Example 3
 <p align="center">
 <img src="pathways-recid2.png" width="600px">
 </p>
+
+### Lesson 39 - Sunday 10/25/20
+
+* Lecture link is coming soon.
+* In today's lesson, we continue our coverage of Chapter 5 - Institutional Corrections.
+* Economic contractions in the early 2000's created significant pressure on state budgets (p. 126).
+* Most incarceration in the US occurs at the state level.
+* Many state services were cut back during this period and incarceration was no exception (p. 126).
+* Options to reduce prison crowding and institutional corrections costs: front- and back-door policies (p. 126).
+* Co-occurring problems of substance use, mental health, lack of job skills, access to housing and healthcare (p. 126).
+* Despite significant changes in correctional policy over the decades, recidivism rates have consistently remained high (pp. 127-129).
+* Policy challenges/risks: (1) proper risk and needs classification; (2) treatment matching; (3) shifting the problem from one place to another place without solving the problem (i.e., large-scale transfer of prison inmates to jails); (4) maintaining treatment for people in the community; (5) dealing with the reality of "life in the neighborhood" for people returning to the community; (6) barriers to employment for people with criminal history records; and (7) collateral costs of criminal justice populations (pp. 127-132).
