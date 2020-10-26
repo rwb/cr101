@@ -716,4 +716,15 @@ Example 3
 * Options to reduce prison crowding and institutional corrections costs: front- and back-door policies (p. 126).
 * Co-occurring problems of substance use, mental health, lack of job skills, access to housing and healthcare (p. 126).
 * Despite significant changes in correctional policy over the decades, recidivism rates have consistently remained high (pp. 127-129).
-* Policy challenges/risks: (1) proper risk and needs classification; (2) treatment matching; (3) shifting the problem from one place to another place without solving the problem (i.e., large-scale transfer of prison inmates to jails); (4) maintaining treatment for people in the community; (5) dealing with the reality of "life in the neighborhood" for people returning to the community; (6) barriers to employment for people with criminal history records; and (7) collateral costs of criminal justice populations (pp. 127-132).
+* Policy challenges/risks: (1) proper risk and needs classification; (2) treatment matching; (3) shifting the problem from one place to another place without solving the problem (i.e., large-scale transfer of prison inmates to jails); (4) maintaining treatment for people in the community; (5) dealing with the reality of "life in the neighborhood" for people returning to the community; (6) barriers to employment for people with criminal history records; and (7) collateral costs of criminal justice populations (pp. 127-129).
+
+### Lesson 40 - Monday 10/26/20
+
+* Lecture link is coming soon.
+* Functions of jails (pp. 129-131).
+* Problems: transient population, minimal treatment and services, less predictability of population behavior (pp. 130-131).
+* Prison populations > jail populations (p. 131).
+* Average length of stay in prison > average length of stay in jail (p. 131).
+* New generation jails try to address some of the security problems without increasing recidivism (pp. 130-131).
+* Prisons: most prisoners are in state prisons and the primary method of organizing prisons is by security level (pp. 131-137).
+* An important research question is whether an inmate's security classification influences recidivism (study [link](https://pdfs.semanticscholar.org/9928/2e9d6a1e4bcce877c65faeec110586f7113c.pdf?_ga=2.240998211.133432168.1603741129-864225782.1603741129)).
