@@ -720,7 +720,7 @@ Example 3
 
 ### Lesson 40 - Monday 10/26/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/Y6GqkpLxIh4).
 * Functions of jails (pp. 129-131).
 * Problems: transient population, minimal treatment and services, less predictability of population behavior (pp. 130-131).
 * Prison populations > jail populations (p. 131).
