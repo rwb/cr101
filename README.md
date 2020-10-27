@@ -731,7 +731,7 @@ Example 3
 
 ### Lesson 41 - Tuesday 10/27/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/CNUPaalmNp0).
 * Today is the last lesson for Assignment #10 which will be open from Thursday 10/29 to Friday 10/30.
 * We are continuing with Chapter 5.
 * Inherent stress of prison life: importation and deprivation models (pp. 136-137).
@@ -739,5 +739,5 @@ Example 3
 * Aging inmates (pp. 141-142; examples: [link1](https://www.bjs.gov/content/pub/pdf/rpr83.pdf), [link2](https://www.bjs.gov/content/pub/pdf/rpr94.pdf), and [link3](https://www.bjs.gov/content/pub/pdf/ropfcs05p0510.pdf)).
 * Inmates with mental illness and deinstitutionalization (please see Figure 1 in this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1748796)).
 * Deinstitutionalization and transinstitutionalization (pp. 142-143).
-* Dual disorder inmates (p. 143).
-* Difficulties when people return to the community (will refer to the figures we used for Lesson 38).
+<!-- Dual disorder inmates (p. 143).
+<!-- * Difficulties when people return to the community (will refer to the figures we used for Lesson 38).
