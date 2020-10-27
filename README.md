@@ -728,3 +728,16 @@ Example 3
 * New generation jails try to address some of the security problems without increasing recidivism (pp. 130-131).
 * Prisons: most prisoners are in state prisons and the primary method of organizing prisons is by security level (pp. 131-137).
 * An important research question is whether an inmate's security classification influences recidivism (study [link](https://pdfs.semanticscholar.org/9928/2e9d6a1e4bcce877c65faeec110586f7113c.pdf?_ga=2.240998211.133432168.1603741129-864225782.1603741129)).
+
+### Lesson 41 - Tuesday 10/27/20
+
+* Lecture link is coming soon.
+* Today is the last lesson for Assignment #10 which will be open from Thursday 10/29 to Friday 10/30.
+* We are continuing with Chapter 5.
+* Inherent stress of prison life: importation and deprivation models (pp. 136-137).
+* Treatment matching problem (pp. 138-139; see this [link](http://webarchive.urban.org/UploadedPDF/311216_treatment_matching.pdf) for an example).
+* Aging inmates (examples: [link1](https://www.bjs.gov/content/pub/pdf/rpr83.pdf), [link2](https://www.bjs.gov/content/pub/pdf/rpr94.pdf), and [link3](https://www.bjs.gov/content/pub/pdf/ropfcs05p0510.pdf)).
+* Inmates with mental illness and deinstitutionalization (please see Figure 1 in this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1748796)).
+* Deinstitutionalization and transinstitutionalization (pp. 142-143).
+* Dual disorder inmates (p. 143).
+* Difficulties when people return to the community (will refer to the figures we used for Lesson 38).
