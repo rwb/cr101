@@ -739,7 +739,5 @@ Example 3
 * Aging inmates (pp. 141-142; examples: [link1](https://www.bjs.gov/content/pub/pdf/rpr83.pdf), [link2](https://www.bjs.gov/content/pub/pdf/rpr94.pdf), and [link3](https://www.bjs.gov/content/pub/pdf/ropfcs05p0510.pdf)).
 * Inmates with mental illness and deinstitutionalization (please see Figure 1 in this [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1748796)).
 * Deinstitutionalization and transinstitutionalization (pp. 142-143).
-<!-- Dual disorder inmates (p. 143).
-<!-- * Difficulties when people return to the community (will refer to the figures we used for Lesson 38).
 
 ### Please Note: Beginning with Lesson 42, all lesson notes and video links will be emailed to you each day that new content is posted. This website will continue to stay up until the end of the semester so you can refer back to it anytime you need to.
